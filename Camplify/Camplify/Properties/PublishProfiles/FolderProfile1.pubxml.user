@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\BOSS\Documents\Camplify Publish</_PublishTargetUrl>
+    <History>True|2021-05-26T20:32:24.4752448Z;True|2021-05-15T02:43:52.1681903+05:00;True|2021-05-13T03:56:04.0696714+05:00;True|2021-05-13T03:38:13.0639595+05:00;True|2021-05-13T02:58:32.3696499+05:00;True|2021-05-13T02:24:40.7347465+05:00;True|2021-05-10T00:19:43.3094194+05:00;</History>
+  </PropertyGroup>
+</Project>

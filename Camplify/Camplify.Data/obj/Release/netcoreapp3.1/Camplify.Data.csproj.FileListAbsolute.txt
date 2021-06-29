@@ -1,0 +1,11 @@
+C:\Development\.NET\Camplify\Camplify.Data\bin\Release\netcoreapp3.1\Camplify.Data.deps.json
+C:\Development\.NET\Camplify\Camplify.Data\bin\Release\netcoreapp3.1\Camplify.Data.runtimeconfig.json
+C:\Development\.NET\Camplify\Camplify.Data\bin\Release\netcoreapp3.1\Camplify.Data.runtimeconfig.dev.json
+C:\Development\.NET\Camplify\Camplify.Data\bin\Release\netcoreapp3.1\Camplify.Data.dll
+C:\Development\.NET\Camplify\Camplify.Data\bin\Release\netcoreapp3.1\Camplify.Data.pdb
+C:\Development\.NET\Camplify\Camplify.Data\obj\Release\netcoreapp3.1\Camplify.Data.AssemblyInfoInputs.cache
+C:\Development\.NET\Camplify\Camplify.Data\obj\Release\netcoreapp3.1\Camplify.Data.AssemblyInfo.cs
+C:\Development\.NET\Camplify\Camplify.Data\obj\Release\netcoreapp3.1\Camplify.Data.csproj.CoreCompileInputs.cache
+C:\Development\.NET\Camplify\Camplify.Data\obj\Release\netcoreapp3.1\Camplify.Data.dll
+C:\Development\.NET\Camplify\Camplify.Data\obj\Release\netcoreapp3.1\Camplify.Data.pdb
+C:\Development\.NET\Camplify\Camplify.Data\obj\Release\netcoreapp3.1\Camplify.Data.genruntimeconfig.cache
